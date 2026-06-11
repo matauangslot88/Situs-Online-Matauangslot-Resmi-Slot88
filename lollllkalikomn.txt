@@ -52,6 +52,8 @@
 <meta content="Toto 4d, togel 4d, situs toto, situs 4d, toto togel, nono4d, situs gacor." name="keywords"/>
 <link rel="prefetch" href="https://it.sjpublisher.org/" as="document">
 <link rel="amphtml" href="https://kasih-nafas-sikit-om.pages.dev/">
+<link rel="alternate" href="https://kasih-nafas-sikit-om.pages.dev/"/>
+<link rel="alternate" href="https://kasih-nafas-sikit-om.pages.dev/" hreflang="id" />
 <meta name="googlebot-news" content="index, follow">
 <meta name="googlebot" content="index, follow">
 <meta name="author" content="NONO4D">
