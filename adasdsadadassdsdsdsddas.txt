@@ -14,7 +14,7 @@
     <link rel="alternate" hreflang="id-ID" href="https://manatahan-969.pages.dev/">
     <link rel="alternate" hreflang="en-US" href="https://manatahan-969.pages.dev/">
     <link rel="alternate" hreflang="en-SG" href="https://manatahan-969.pages.dev/">
-    <link as="image" href="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png" rel="preload">
+    <link as="image" href="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png" rel="preload">
     <link crossorigin="" href="https://fonts.googleapis.com" rel="preconnect">
     <link crossorigin="" href="https://ajax.googleapis.com" rel="preconnect">
     <link crossorigin="" href="https://www.googletagmanager.com" rel="preconnect">
@@ -13985,8 +13985,8 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
 .m-footer__newsletter-container .m-newsletter-signup {
     transition: all 0.15s ease-in-out;
     background-blend-mode: soft-light;
-    background-image: -webkit-image-set(url(https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png) type("image/webp"), url(https://assets.teepublic.com/assets/bg/topic-pattern_a40-1d534e38f3a27226644d462057ba1c69adef362e84a2cff7cb2ae2b28b92fbb8.png) type("image/png"));
-    background-image: image-set(url(https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png) type("image/webp"), url(https://assets.teepublic.com/assets/bg/topic-pattern_a40-1d534e38f3a27226644d462057ba1c69adef362e84a2cff7cb2ae2b28b92fbb8.png) type("image/png"));
+    background-image: -webkit-image-set(url(https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png) type("image/webp"), url(https://assets.teepublic.com/assets/bg/topic-pattern_a40-1d534e38f3a27226644d462057ba1c69adef362e84a2cff7cb2ae2b28b92fbb8.png) type("image/png"));
+    background-image: image-set(url(https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png) type("image/webp"), url(https://assets.teepublic.com/assets/bg/topic-pattern_a40-1d534e38f3a27226644d462057ba1c69adef362e84a2cff7cb2ae2b28b92fbb8.png) type("image/png"));
     background-position: center center;
     display: -webkit-flex;
     display: flex;
@@ -18066,7 +18066,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
     <meta property="og:price:currency" content="Rupiah">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://avalondayspa.in/">
-    <meta property="og:image" content="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+    <meta property="og:image" content="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
     <meta property="og:site_name" content="NONO4D">
     <meta property="product:price:amount" content="100.00">
     <meta property="product:brand" content="NONO4D">
@@ -18105,7 +18105,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
             "design__parent_id": "TOGEL-RANK-001",
             "design__variant_id": "19G79A8C",
             "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}",
-            "design__mock_image": "https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png",
+            "design__mock_image": "https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png",
             "design__url": "https://avalondayspa.in/",
             "design__canvas": "NONO4D",
             "design__canvas_canonical_name": "NONO4D",
@@ -18140,7 +18140,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
                         "id": "74165272",
                         "brand": "NONO4D",
                         "design_color": "Red",
-                        "product_image": "https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png",
+                        "product_image": "https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png",
                         "variant_id": "19G79A8C",
                         "design_owner_id": "6075586",
                         "design_primary_tag": "george-kittle",
@@ -18148,7 +18148,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
                         "variant": '{"Gender":"Male Fit","Style":"Classic T-Shirt","Color":"Red"}',
                         "dimension34": 'TOGEL-ONLINE-RESMI',
                         "dimension37": 'false',
-                        "dimension42": 'https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png',
+                        "dimension42": 'https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png',
                         "dimension44": 'george-kittle',
                         "dimension46": '6075586',
                         "dimension47": 'designer'
@@ -18216,7 +18216,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
   "sku": "TOGEL-ONLINE-RESMI",
   "image": {
     "@type": "ImageObject",
-    "url": "https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png"
+    "url": "https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png"
   },
   "offers": {
     "@type": "Offer",
@@ -18640,45 +18640,45 @@ Back
 <ul class="glide__slides" style="transition: transform ease-in-out; width: 3816px; transform: translate3d(-1272px, 0px, 0px);">
 <li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="active" data-id="0" data-label="" style="width: 658px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li><li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="" data-id="1" data-label="" style="width: 658px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li><li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="active" data-id="0" data-label="" style="width: 626px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li><li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="" data-id="1" data-label="" style="width: 626px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li><li class="glide__slide m-product-preview__glider-slide glide__slide--active" data-default="active" data-id="0" data-label="" style="width: 626px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li>
 <li class="glide__slide m-product-preview__glider-slide" data-default="" data-id="1" data-label="" style="width: 626px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li>
 <li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="active" data-id="0" data-label="" style="width: 658px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li><li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="" data-id="1" data-label="" style="width: 658px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li><li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="active" data-id="0" data-label="" style="width: 626px; margin-left: 5px; margin-right: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li><li class="glide__slide m-product-preview__glider-slide glide__slide--clone" data-default="" data-id="1" data-label="" style="width: 626px; margin-left: 5px;">
 <picture class="m-product-preview__glider-img">
-<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview jsProductMainImage" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 </li></ul>
 </div>
@@ -18705,7 +18705,7 @@ Back
 <a data-id="0 " href="https://avalondayspa.in/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class="link__content">
 <picture data-action="click-&gt;rudderstack--filter-clicked#track" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="thumbnail" data-glide-dir="0">
-<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup" loading="lazy" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="NONO4D : Top #1 Rekomendasi Game Online Terbaik Tahun 2026 by Hey siriusly" class="mockup" loading="lazy" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 
 </span>
@@ -18713,7 +18713,7 @@ Back
 </a><a data-id="1 " href="https://avalondayspa.in/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class="link__content">
 <picture data-action="click-&gt;rudderstack--filter-clicked#track" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="thumbnail" data-glide-dir="1">
-<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview" loading="lazy" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1779840229/jkanga_2_vbh2i0.png">
+<img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview" loading="lazy" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1781304120/14_vjgjo1.png">
 </picture>
 
 </span>
