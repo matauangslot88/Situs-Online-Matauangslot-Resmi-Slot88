@@ -410,7 +410,7 @@
     </section>
     <footer class="footer">
       <div class="copyright">
-        <p><span style="color: #ffff00;"><strong>NONO4D x SNOOP</strong></span></p>
+        <p><span style="color: #ffff00;"><strong>NONO4D x ACELTODAY</strong></span></p>
       </div>
     </footer>
   </div>
