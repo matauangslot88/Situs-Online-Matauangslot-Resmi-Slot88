@@ -1,0 +1,418 @@
+<!doctype html>
+<html amp lang="id">
+
+<head>
+  <meta charset="utf-8">
+  <title>SLOT777 Menuju Situs Thailand Bareng Dengan Slot Gacor Depo 10k Hari Ini</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SLOT777 menghadirkan konsep hiburan online dengan tampilan modern, akses praktis, serta berbagai fitur terbaru yang mengikuti perkembangan digital. Temukan informasi seputar layanan, teknologi, dan pengalaman pengguna yang lebih nyaman di era 2026.">
+  <meta name="keywords" content="slot777, slot777 daftar, slot777 login, slot777 resmi, slot thailand, slot thailand resmi, slot thailand hari ini, slot gacor, slot gacor hari ini, slot paling gacor, slot depo 10k, situs thailand, situs gacor, situs hari ini.">
+  <meta name="robots" content="index,follow">
+  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtgAvRlTZBIU0TQkqoybraEWQpjFSsfQpbfTA__d__PUgcRlwTtOfkk6TveQEttumuQn4U1iGv10ygIvWZJmv8Ej5gdRGTCZ3CBdIdfRtZJbV246HA-EQqtrANrOqXS7Qt8Xmf-q2yCRSm1_A-gGku3_Tm7-VTI4rr-W96lQjKrcuDQ6TlvQXF17v_cg4/s1200/Untitled%20design%20(1).png">
+  <meta property="og:url" content="https://pgsd.stkipmodernngawi.ac.id/">
+  <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oAftD9AaHnUwKUNR_Pbea1NxY5Ph4MfVx2uMULQRyctaDGfnty-G0HaPcDoh57PuMCRkiIkSkg8OkGsFpCEgcagQ3WlfWGlrvz75RjK-hsAFCtpgJDlqLdRVmlac94OqU5BQiXZciTUfgvmCGQeGlXOMqaa433iQs8Wbv4WgsL6XzQ_jdoKDjKgw95A/s1024/aceltodayyyyyy.png">
+  <link rel="canonical" href="https://pgsd.stkipmodernngawi.ac.id/" />
+  <link rel="alternate" href="https://pgsd.stkipmodernngawi.ac.id/" hreflang="id" />
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style amp-boilerplate>
+    body {
+      -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      animation: -amp-start 8s steps(1, end) 0s 1 normal both
+    }
+
+    @-webkit-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-moz-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-ms-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-o-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+  </style>
+  <noscript>
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -ms-animation: none;
+        animation: none
+      }
+    </style>
+  </noscript>
+  <style amp-custom>
+    :root {
+      --bg: linear-gradient(180deg, black, rgb(158, 3, 247));
+      --text: #f6f7fb;
+      --neon-blue: #ffe3e3;
+      --neon-blue-light: #6001ff;
+      --neon-pulse: #ffffff
+    }
+
+    * {
+      box-sizing: border-box
+    }
+
+    html,
+    body {
+      margin: 0;
+      height: 100%
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 16px
+    }
+
+    .shell {
+      max-width: 100%;
+      padding-top: ;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px
+    }
+
+    .header {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 0
+    }
+
+    .logo {
+      border-radius: 8px
+    }
+
+    .marquee-wrapper {
+      width: 100%;
+      background: #000;
+      border-top: 2px groove rgb(158, 3, 247);
+      border-bottom: 2px groove rgb(158, 3, 247);
+      overflow: hidden;
+      padding: 8px 0
+    }
+	.marquee-text {
+      display: inline-block;
+      white-space: nowrap;
+      color: #fff;
+      font-size: 13px;
+      font-weight: bold;
+      padding-left: 100%;
+      animation: marquee 12s linear infinite
+    }
+
+    @keyframes marquee {
+      0% {
+        transform: translateX(0)
+      }
+
+      100% {
+        transform: translateX(-100%)
+      }
+    }
+
+    .card {
+      position: relative;
+      background: linear-gradient(180deg, rgba(255, 30, 30, 0.08), rgba(30, 144, 255, 0.03));
+      border: 3px solid #6001ff;
+      border-radius: 18px;
+      box-shadow: 0 0 30px #6001ff, inset 0 0 12px rgba(255, 115, 0, 0.2), 0 10px 50px rgba(0, 0, 0, 0.6);
+      overflow: hidden;
+      width: 100%;
+      padding: 20px
+    }
+
+    .card:hover {
+      box-shadow: 0 0 50px #6001ff, inset 0 0 20px #6001ff, 0 10px 60px rgba(0, 0, 0, 0.7);
+      transform: scale(1.05)
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      top: 150%;
+      left: 0%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle, rgb(158, 3, 247), rgb(158, 3, 247) 70%);
+      animation: neonWave 6s linear infinite;
+      filter: blur(25px);
+      z-index: 0
+    }
+
+    @keyframes neonWave {
+      0% {
+        transform: translateX(-50%) translateY(-50%) rotate(0deg)
+      }
+
+      100% {
+        transform: translateX(-50%) translateY(-50%) rotate(360deg)
+      }
+    }
+
+    .hero {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      align-items: center;
+      position: relative;
+      z-index: 1
+    }
+
+    .hero-img {
+      border-radius: 14px;
+      width: 100%;
+      height: auto
+    }
+
+    .cta {
+      display: flex;
+      gap: 12px;
+      width: 100%;
+      justify-content: center;
+      flex-wrap: wrap;
+      position: relative;
+      z-index: 1
+    }
+
+    .btn {
+      flex: 1 1 45%;
+      display: inline-block;
+      text-decoration: none;
+      text-align: center;
+      padding: 14px 16px;
+      border-radius: 12px;
+      font-weight: 700;
+      letter-spacing: .3px;
+      border: 2px solid transparent;
+      transition: all .25s ease;
+      position: relative;
+      overflow: hidden;
+      color: #fff;
+      background: #000;
+      z-index: 1
+    }
+
+    .btn::before {
+      content: "";
+      position: absolute;
+      top: -3px;
+      left: -3px;
+      right: -3px;
+      bottom: -3px;
+      background: conic-gradient(from 0deg, var(--neon-blue), var(--neon-blue-light), var(--neon-blue));
+      border-radius: 14px;
+      z-index: -1;
+      filter: blur(8px);
+      animation: rotateBorder 2.5s linear infinite
+    }
+
+    .btn::after {
+      content: "";
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      right: 3px;
+      bottom: 3px;
+      background: #000;
+      border-radius: 10px;
+      z-index: -1
+    }
+
+    .btn:hover {
+      animation: glowPulse 1s infinite;
+      transform: translateY(-2px)
+    }
+
+    @keyframes rotateBorder {
+      to {
+        transform: rotate(360deg)
+      }
+    }
+
+    @keyframes glowPulse {
+      0% {
+        box-shadow: 0 0 30px var(--neon-blue), 0 0 60px var(--neon-blue-light)
+      }
+
+      50% {
+        box-shadow: 0 0 60px var(--neon-blue-light), 0 0 120px var(--neon-pulse)
+      }
+
+      100% {
+        box-shadow: 0 0 30px var(--neon-blue), 0 0 60px var(--neon-blue-light)
+      }
+    }
+
+    .section-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      width: 100%
+    }
+
+    .badge-container {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: center
+    }
+
+    .badge {
+      flex: 1 1 30%;
+      display: inline-block;
+      text-decoration: none;
+      text-align: center;
+      padding: 10px 12px;
+      border-radius: 10px;
+      font-weight: 700;
+      letter-spacing: .2px;
+      border: 2px groove white;
+      transition: all .25s ease;
+      position: relative;
+      overflow: hidden;
+      color: #fff;
+      background: #000;
+      z-index: 1;
+      font-size: 12px
+    }
+    .badge::before {
+      content: "";
+      position: absolute;
+      top: -3px;
+      left: -3px;
+      right: -3px;
+      bottom: -3px;
+      background: conic-gradient(from 0deg, var(--neon-blue), var(--neon-blue-light), var(--neon-blue));
+      border-radius: 12px;
+      z-index: -1;
+      filter: blur(8px);
+      animation: rotateBorder 3s linear infinite
+    }
+
+    .badge::after {
+      content: "";
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      right: 3px;
+      bottom: 3px;
+      background: #000;
+      border-radius: 8px;
+      z-index: -1
+    }
+
+    .badge:hover {
+      animation: glowPulse 1.2s infinite;
+      transform: scale(1.05)
+    }
+
+    .footer {
+      text-align: center;
+      color: #ffffff;
+      font-size: 12px;
+      padding: 8px 0 0;
+      margin-top: 8px;
+      position: relative;
+      z-index: 1
+    }
+
+    .footer b {
+      color: rgb(0, 0, 0)
+    }
+
+    .bg-body{
+      background-image:url('https://res.cloudinary.com/dmwuad6vn/image/upload/v1779944299/bgnono4d_osn7du.jpg');
+      background-size:cover;
+      background-repeat:no-repeat;
+      background-position:center;
+      min-height:100vh;
+    }
+  </style>
+</head>
+<body class="bg-body">
+  <div class="shell">
+    <header class="header">
+      <amp-img class="logo" src="https://res.cloudinary.com/dsicb7awt/image/upload/v1778777901/6qki-Uuqf_s1niuh_pmnjbr.gif" width="250" height="70" layout="fixed" alt="NONO4D - Logo"></amp-img>
+    </header>
+    <div class="marquee-wrapper">
+      <div class="marquee-text"> SLOT777 Menuju Situs Thailand Bareng Dengan Slot Gacor Depo 10k Hari Ini </div>
+    </div>
+    <section class="card hero">
+      <amp-img class="hero-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtgAvRlTZBIU0TQkqoybraEWQpjFSsfQpbfTA__d__PUgcRlwTtOfkk6TveQEttumuQn4U1iGv10ygIvWZJmv8Ej5gdRGTCZ3CBdIdfRtZJbV246HA-EQqtrANrOqXS7Qt8Xmf-q2yCRSm1_A-gGku3_Tm7-VTI4rr-W96lQjKrcuDQ6TlvQXF17v_cg4/s1200/Untitled%20design%20(1).png" width="800" height="800" layout="responsive" alt="NONO4D" fallback></amp-img>
+      <div class="cta">
+        <a class="btn" href="https://jetlinkr.co/login-nono4d" target="_blank">LOGIN</a>
+        <a class="btn" href="https://jetlinkr.co/daftar-nono4d" target="_blank">DAFTAR</a>
+      </div>
+      <div class="section-buttons">
+        <div class="badge-container">
+          <span class="btn"><a href="https://jetlinkr.co/login-nono4d" style="color:white;"></a>NONO4D</a></span>
+          <span class="btn"><a href="https://jetlinkr.co/daftar-nono4d" style="color:white;"></a>NONO4D LINK</a></span>
+          <span class="btn"><a href="https://jetlinkr.co/daftar-nono4d" style="color:white;"></a>NONO4D LOGIN</a></span>
+        </div>
+        <div class="badge-container">
+          <span class="btn"><a href="https://jetlinkr.co/login-nono4d" style="color:white;"></a>SCAN BARCODE</a></span>
+          <span class="btn"><a href="https://jetlinkr.co/apk-nono4d" style="color:white;"></a>DOWNLOAD APK</a></span>
+          <span class="btn"><a href="https://jetlinkr.co/daftar-nono4d" style="color:white;"></a>BONUS NEW MEMBER 50%</a></span>
+          <span class="btn"><a href="https://jetlinkr.co/daftar-nono4d" style="color:white;">KLAIM BONUS NEW MEMBER DISINI!</a></span>
+        </div>
+      </div>
+    </section>
+    <footer class="footer">
+      <div class="copyright">
+        <p><span style="color: #ffff00;"><strong>NONO4D x SNOOP</strong></span></p>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
